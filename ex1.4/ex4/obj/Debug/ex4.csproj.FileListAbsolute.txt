@@ -1,0 +1,11 @@
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\ex4\ex4\bin\Debug\ex4.exe.config
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\ex4\ex4\bin\Debug\ex4.exe
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\ex4\ex4\bin\Debug\ex4.pdb
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\ex4\ex4\obj\Debug\ex4.Form1.resources
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\ex4\ex4\obj\Debug\ex4.Properties.Resources.resources
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\ex4\ex4\obj\Debug\ex4.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\ex4\ex4\obj\Debug\ex4.exe
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\ex4\ex4\obj\Debug\ex4.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №1\ex1.4\ex4\bin\Debug\ex4.exe.config
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №1\ex1.4\ex4\obj\Debug\ex4.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №1\ex1.4\ex4\obj\Debug\ex4.pdb

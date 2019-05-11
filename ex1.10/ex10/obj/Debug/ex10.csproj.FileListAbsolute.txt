@@ -1,0 +1,8 @@
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\ex10\ex10\bin\Debug\ex10.exe.config
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\ex10\ex10\bin\Debug\ex10.exe
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\ex10\ex10\bin\Debug\ex10.pdb
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\ex10\ex10\obj\Debug\ex10.Form1.resources
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\ex10\ex10\obj\Debug\ex10.Properties.Resources.resources
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\ex10\ex10\obj\Debug\ex10.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\ex10\ex10\obj\Debug\ex10.exe
+C:\Users\Fence_2\Documents\Visual Studio 2015\Projects\ex10\ex10\obj\Debug\ex10.pdb
